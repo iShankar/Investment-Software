@@ -8,3 +8,5 @@ To get started, I have used "Analyzing Financial Data and Implementing Financial
 I also plan to set up stock portfolios based on several stock screens at AAII.org (which includes those detailed in O'Shaunessy's book: "What Works on Wall Street, Fourth Edition: The Classic Guide to the Best-Performing Investment Strategies of All Time" , 2011 by James P. O'Shaughnessy). AAII also provides StockInvestor Pro database (for $199/year) that provides cross-sectional data and a variety of metrics that can help us set up screens for many popular strategies. About half of them have done better than S&P 500 over a longer track period of 5 and 10 years. My goal is to build stock portfolios based on them, using R, and track those portfolios using a stock game simulator at investopedia. It is a free account. This is both to ensure that R code is functional and to evaluate the performance of portfolios.
 
 Comments to add: Fundamental and Time Series analysis.
+
+I will redo the examples that are given in [TTR Package](https://cran.r-project.org/web/packages/TTR/TTR.pdf). 
