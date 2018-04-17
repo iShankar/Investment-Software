@@ -1,7 +1,7 @@
 # Investment-Software
 R Programs for fundamental and technical analysis useful for investment portfolio analysis
 
-R-based SW for use in investments. I took a course from Georgia Tech in 2014 that used Python and a library developed by the professor. I was not sure whether it is being updated and maintained as of 2018, since I did not see any mention of the course being offered again. So, I opted to use R. R seems to have two good packages for use with financial analysis that are being actively maintained: quantmod and TTR. The authors also seem to have video lessons (cost: $29/month) at datacamp. However, I also found that TTR has a few good examples on page 50. I plan to use them to get started and take the lessons if needed. Here is a good reference for technology indicators, at FM Labs .
+R-based SW for use in investments. I took a course from Georgia Tech in 2014 that used Python and a library developed by the professor. I was not sure whether it is being updated and maintained as of 2018, since I did not see any mention of the course being offered again. So, I opted to use R. R seems to have two good packages for use with financial analysis that are being actively maintained: quantmod, TTR, and zoo. The authors also seem to have video lessons (cost: $29/month) at datacamp. However, I also found that TTR has a few good examples on page 50. I plan to use them to get started and take the lessons if needed. Here is a good reference for technology indicators, at [FM Labs](http://www.fmlabs.com/reference/). Vignettes/Short tutorials are here: For [quantmod](http://statmath.wu.ac.at/~hornik/QFS1/quantmod-vignette.pdf), 
 
 To get started, I have used "Analyzing Financial Data and Implementing Financial Models Using R," 2015 Edition, by Clifford S. Ang. The author develops R code independent of quantmod, but also formats all the data to match up with quantmod so one can take either route. I did find some discrepancies (nothing major); it is easier to use quantmod and TTR, assuming one understands all the parameters. I plan to use them, and build on the studies in Ang's book, using Knitr and for the current period of 2017-2018. The knitr code should be easily alterable to other time periods. Knitr is good for fast and dynamic report generating. My output in html will also be uploaded. Instructions on how to read html document will be given below.
 
@@ -9,4 +9,4 @@ I also plan to set up stock portfolios based on several stock screens at AAII.or
 
 Comments to add: Fundamental and Time Series analysis.
 
-I will redo the examples that are given in [TTR Package](https://cran.r-project.org/web/packages/TTR/TTR.pdf). 
+I will redo the examples that are given in [TTR Package](https://cran.r-project.org/web/packages/TTR/TTR.pdf). These financial packages are illustrated in this [tutorial](https://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf)
