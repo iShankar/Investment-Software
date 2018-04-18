@@ -7,5 +7,5 @@ future payment date. Ex-dividend date, or ex-date, typically one week after the 
 for the 'Close' and 'Adjusted' categories match after the ex-date, but would have the 'Adjusted' lower by about the dividend amount
 relative to the 'Close' value. So, **use the 'Adjusted' price for calculating the return (for dividend paying stocks)**. The 'Adjusted' close price for prior periods
 changers after each dividend payment (same for stock splits). So, a future download of data may not match with an earlier date data
-(but returns calculated will be correct). 
+(but returns calculated will be correct). *Hello*
 
