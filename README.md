@@ -10,3 +10,5 @@ I also plan to set up stock portfolios based on several stock screens at AAII.or
 Comments to add: Fundamental and Time Series analysis.
 
 I will redo the examples that are given in [TTR Package](https://cran.r-project.org/web/packages/TTR/TTR.pdf). These financial packages are illustrated in this [tutorial](https://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf). 
+
+The zoo class, implemented with the 'zoo' package, is designed to handle time series data with an arbitrary ordered time index (or irregular time series). The original ts class, used in R for representing a time series, is inadequate for representing financial data, which is not regularly spaced (stock market runs M through F, and not on Sa, Su, and holidays). The zoo class is ideal for that. Note: Data stored in a data.frame is not supported by zoo. It needs to be converted to a matrix, and then to a zoo object. Here is a [reference](https://faculty.washington.edu/ezivot/econ424/Working%20with%20Time%20Series%20Data%20in%20R.pdf). 
