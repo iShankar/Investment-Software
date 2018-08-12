@@ -10,6 +10,8 @@ Some images are included here that show the process:
 
 In summary: Use Upload for company's responses and Correspond for SEC's queries. As the process is bureaucratic, Look at the latest set for some final decision if any. On many an occasion, it is a harmless correspondence for certain clarifications. But in some cases, it is clear that there are serious discrepancies.
 
-Start from the Full Text Search page [here](https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=comment%20letters&isAdv=false). Enter 'corresp or UPLOAD' and click on 'Advanced search page' button. It will help narrow the search as shown in one of the images above. 
+Start from the Full Text Search page [here](https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=comment%20letters&isAdv=false). Enter 'corresp or UPLOAD' and click on 'Advanced search page' button. Enter company's name (not Tikcer) and date range. It will help narrow the search as shown in one of the images above. 
+
+If I can download the entire archive for a given date range (seems possible), then I should be able to do an automated R search for the list of companies with such letters. Next action step. 
 
 Interesting info about crowdfunding: https://www.sec.gov/dera/data/crowdfunding-offerings-data-sets. 
