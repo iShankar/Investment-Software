@@ -8,7 +8,7 @@ Some images are included here that show the process:
 
 ![alt text](https://github.com/iShankar/Investment-Software/blob/master/images/SEC%20Full%20Text%20Search%20example.png)
 
-In summary: Use Upload for company's responses and Correspond for SEC's queries. As the process is bureaucratic, Look at the latest set for some final decision if any. On many an occasion, it is a harmless correspondence for certain clarifications. But in some cases, it is clear that there are serious discrepancies.
+In summary: Use 'corresp' for company's responses and 'UPLOAD' for SEC's queries. As the process is bureaucratic, Look at the latest set for some final decision if any. On many an occasion, it is a harmless correspondence for certain clarifications. But in some cases, it is clear that there are serious discrepancies. 
 
 Start from the Full Text Search page [here](https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=comment%20letters&isAdv=false). Enter 'corresp or UPLOAD' and click on 'Advanced search page' button. Enter company's name (not Tikcer) and date range. It will help narrow the search as shown in one of the images above. 
 
