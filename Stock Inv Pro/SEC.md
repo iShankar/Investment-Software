@@ -4,13 +4,11 @@ Here are some URLs at SEC that are relevant: [How to Search EDGAR for correspond
 
 Some images are included here that show the process:
 
+The image below shows an advanced search for Unisys. The Upload on 10/2016 shows that SEC has some balance sheet concerns. Subsequent Corresp from Unisys clarifies. The matter was resolved in 2/2017 with an upload from SEC. 
 ![alt text](https://github.com/iShankar/Investment-Software/blob/master/images/SEC%20Comment%20letter%20search.png)
 
-The image above shows an advanced search for Unisys. The Upload on 10/2016 shows that SEC has some balance sheet concerns. Subsequent Corresp from Unisys clarifies. The matter was resolved in 2/2017 with an upload from SEC. 
-
+The image below shows communication about a trade with a foreign country on a US watch list. Abbott showed in their response that the amount of trade was less than 0.01% of its total global trade. 
 ![alt text](https://github.com/iShankar/Investment-Software/blob/master/images/SEC%20Full%20Text%20Search%20example.png)
-
-In the above image, there was communication about trade with a foreign country on a watch list. Abbott showed in their response that the amount of trade was less than 0.01% of its total global trade. 
 
 In summary: Use 'corresp' for company's responses and 'UPLOAD' for SEC's queries. As the process is bureaucratic, Look at the latest set for some final decision if any. On many an occasion, it is a harmless correspondence for certain clarifications. But in some cases, it is clear that there are serious discrepancies. 
 
