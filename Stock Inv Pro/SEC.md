@@ -9,3 +9,5 @@ Some images are included here that show the process:
 ![alt text](https://github.com/iShankar/Investment-Software/blob/master/images/SEC%20Full%20Text%20Search%20example.png)
 
 In summary: Use Upload for company's responses and Correspond for SEC's queries. As the process is bureaucratic, Look at the latest set for some final decision if any. On many an occasion, it is a harmless correspondence for certain clarifications. But in some cases, it is clear that there are serious discrepancies.
+
+Interesting info about crowdfunding: https://www.sec.gov/dera/data/crowdfunding-offerings-data-sets. 
