@@ -10,4 +10,4 @@ US Prime rate available [here](http://www.fedprimerate.com/prime-rate-chart.htm)
 
 ![US Prime Rate](https://github.com/iShankar/Investment-Software/blob/master/images/Fed-Prime-Rate-United-States-Prime-Rate-Chart.gif)
 
-This is my simplistic understanding: 
+This is my simplistic understanding: If I had bought a 25 year US Treasury in 1981 at 18.1%, with a face value of $10K, as the interest rate dropped, its effective marketable value would go up, as the newer entrants to the market demanded higher cashflows. The uppper limit, however, is just buying more of US treasury at the lower interest rate. Say, the interest rate was 9%, then they could buy $20K of US Treasuries to get the same cash flow that I am getting. However, I might be willing to part with my Treasury  for $15K, so I pocket $5K in profit, while the new entrant gets the correct cash flow at a lower cost. So, it is a win-win. However, the bottom line: It should be a treasury bought when the interest rate was higher. 
