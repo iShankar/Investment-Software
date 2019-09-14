@@ -18,9 +18,9 @@ Inversion of the yield curve: GDP Vs Yield spread below is from the site of the 
 
 ![GDP and Yield Curve](https://github.com/iShankar/Investment-Software/blob/master/images/Yield-Curve%20Predicted%20GDP%20Growth.png)
 
-Inflation plot: 
+Inflation plot: The following plot is from Timothy McMohan, as obtained from a [Google search](https://www.google.com/search?q=inflation+chart+us&rlz=1C1GCEU_enUS826US826&tbm=isch&source=iu&ictx=1&fir=PFcP72h512eNpM%253A%252CwHl7IUDWP2vF5M%252C_&vet=1&usg=AI4_-kS0Yjr3EHavxIQOdxuiXrqCL0sT3w&sa=X&ved=2ahUKEwiOvJK_ntHkAhVP0KwKHT3_AnYQ9QEwDnoECAIQBg#imgrc=-GWPC7XP2zkYmM:&vet=1)
 
-
+![Annual Inflation Rate](https://github.com/iShankar/Investment-Software/blob/master/images/Inflation%20rate.png)
 
 S&P 500 Historical data: It is from this Google search [link:](https://www.google.com/search?q=s%26p+500+chart+history&rlz=1C1GCEU_enUS826US826&oq=S%26P+500+chart&aqs=chrome.1.0l6.20513j1j8&sourceid=chrome&ie=UTF-8)
 
